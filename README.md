@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <div id="badges">
-<a href="dhannjay1104@gmail.com">
+<a href="mailto:dhannjay1104@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="LinkedIn Badge"/>
   </a>  
   <a href="https://www.linkedin.com/in/dhananjay0411/">
@@ -26,7 +26,7 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 - :zap: In my free time, I solve problems on Leetcodes and read tech articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dhananjay0411/)[![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white
-)](dhannjay1104@gmail.com)
+)](mailto:dhannjay1104@gmail.com)
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
